@@ -243,17 +243,10 @@
 
 <br/>
 
-<!-- Streak Stats — VERIFIED WORKING -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarrrrr&theme=radical&hide_border=true&background=0d1117&stroke=d2aa6e&ring=d2aa6e&fire=d2aa6e&currStreakLabel=d2aa6e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="70%" alt="streak stats"/>
+<!-- Streak Stats with Private Contributions Enabled -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarrrrr&theme=radical&hide_border=true&background=0d1117&stroke=d2aa6e&ring=d2aa6e&fire=d2aa6e&currStreakLabel=d2aa6e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&count_private=true" width="70%" alt="streak stats"/>
 
 </div>
-
-<br/>
-
-<!-- ─── CONTRIBUTION CALENDAR ─── -->
-<div align="center">
-
-### `<calendar />`
 
 <br/>
 
